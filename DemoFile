@@ -1,0 +1,15 @@
+<!DOCTYPE html>  
+ <html lang="en-us">
+    <head>
+        <title>My First Page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <img src="https://images.ctfassets.net/cnu0m8re1exe/6y85yBIxrIAGWM3rRzSI3Z/3a3a9ab9933d50d75d43129921ac540c/CatPetting_edited-2.jpg?w=650&h=433&fit=fill" alt"a happy grey cat">
+        <br>
+        <a href ="https://www.google.com" target="_blank">Google</a>
+        <strong>
+            <a href="https://youtube.com" target="_blank">YouTube</a>
+        </strong>
+    </body>
+</html>
